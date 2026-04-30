@@ -1,5 +1,13 @@
 #  House Price Prediction API (Production-Ready ML System)
 
+![Deployed on Railway](https://img.shields.io/badge/Deployed%20on-Railway-brightgreen?style=for-the-badge&logo=railway)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-Production%20API-009688?style=for-the-badge&logo=fastapi)
+
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue?style=for-the-badge&logo=docker)
+
+![Python](https://img.shields.io/badge/Python-ML-blue?style=for-the-badge&logo=python)
+
 ##  Overview
 This project is a production-style Machine Learning system that predicts house prices based on features like bedrooms, bathrooms, area, and age.
 
