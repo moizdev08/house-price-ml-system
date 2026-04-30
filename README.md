@@ -28,3 +28,21 @@ This project is a production-style Machine Learning system that predicts house p
   "area": 1500,
   "age": 5
 }
+
+#### Response:
+```json
+{
+  "status": "success",
+  "predicted_price": 280000
+}
+
+##  Screenshots
+
+### Swagger UI
+![Swagger UI](assets/swagger.png)
+
+### Prediction Output
+![Prediction](assets/predict.png)
+
+### Docker Running
+![Docker](assets/docker.png)
